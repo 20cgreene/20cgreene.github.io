@@ -82,9 +82,9 @@ li.dropdown {
     text-align: left;
 }
 .dropdown-content a:hover {
-    background-color: #f1f1f1
+    background-color: black;
 }
 .dropdown:hover .dropdown-content {
     display: block;
-    overflow: hidden;
+    overflow: auto;
 }
