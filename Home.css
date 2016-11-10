@@ -71,7 +71,7 @@ li.dropdown {
 .dropdown-content {
     display: none;
     background-color: grey;
-    min-width: 60px;
+    min-width: 50px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 }
 .dropdown-content a {
