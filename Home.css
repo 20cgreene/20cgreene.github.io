@@ -85,6 +85,6 @@ li.dropdown {
     background-color: grey;
 }
 .dropdown:hover .dropdown-content {
-    display: inline-block;
+    display: block;
     overflow: hidden;
 }
