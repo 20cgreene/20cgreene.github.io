@@ -46,7 +46,7 @@ ul {
     overflow: hidden;
     background-color: black;
     position: fixed;
-    heigth: 50px;
+    height: 40px;
     top: 0;
     right: 0;
     width: 100%;
@@ -62,4 +62,4 @@ li a {
     text-decoration: none;
 }
 li a:hover  {
-     background-color: red;
+     background-color: grey;
