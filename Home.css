@@ -50,6 +50,7 @@ ul {
     top: 0;
     right: 0;
     width: 100%;
+    cursor: pointer;
  }
 li {
     float: left;
@@ -70,4 +71,5 @@ li a:hover  {
 }
 .dropdown:hover .dropdown-content {
     display: block;
+    overflow: auto;
 }
