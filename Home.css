@@ -45,7 +45,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: black;
-    position: absolute;
+    position: fixed;
     width: 100%;
     top: 0;
     cursor: pointer;
