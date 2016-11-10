@@ -62,7 +62,7 @@ li a, .dropbtn{
     text-decoration: none;
 }
 li a:hover, .dropdown:hover .dropbtn  {
-     background-color: black;
+     background-color: grey;
 }
 li.dropdown {
     display: inline-block;
@@ -86,5 +86,5 @@ li.dropdown {
 }
 .dropdown:hover .dropdown-content {
     display: block;
-    overflow: auto;
+    overflow: hidden;
 }
