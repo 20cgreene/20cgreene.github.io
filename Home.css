@@ -69,11 +69,10 @@ li.dropdown {
 }
 
 .dropdown-content {
-    display: none;
+    display: inline-block;
     background-color: black;
     background: clear;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    width: 50px;
 }
 .dropdown-content a {
     color: white;
