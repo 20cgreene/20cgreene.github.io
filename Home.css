@@ -89,3 +89,10 @@ li.dropdown {
     display: block;
     overflow: hidden;
 }
+.fillarBar {
+    position: absolute;
+    width: 100%;
+    top:0;
+    cursor: pointer;
+    right:0;
+    height: 50px;
