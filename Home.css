@@ -50,6 +50,7 @@ ul {
     cursor: pointer;
     right:0;
     min-height: 50px;
+    color: black;
  }
 li {
     float: left;
