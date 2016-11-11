@@ -96,4 +96,5 @@ li.dropdown {
     cursor: pointer;
     right:0;
     height: 50px;
+    background-color: black;
 }
