@@ -91,7 +91,7 @@ li.dropdown {
     display: block;
     overflow: hidden;
 }
-.fillarBar {
+.fillarBar a {
     z-index: 0;
     position: absolute;
     width: 100%;
