@@ -8,7 +8,7 @@ html {
     overflow: hidden;
         }
 body {
-    z-index: -1;
+    z-index: -2;
     background: #fff;
     box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
     color: #545454;
@@ -41,7 +41,6 @@ p    {
     column-span: all;
 }
 ul {
-    z-index: +1;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -92,7 +91,7 @@ li.dropdown {
     overflow: hidden;
 }
 .fillarBar a {
-    z-index: 0;
+    z-index: -1;
     position: absolute;
     width: 100%;
     top:0;
