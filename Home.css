@@ -89,3 +89,10 @@ li.dropdown {
     display: block;
     overflow: hidden;
 }
+#topblackbar {
+   position:fixed;
+   height:50px;
+   width: 100%;
+   top: 0;
+   right: 0;
+}
