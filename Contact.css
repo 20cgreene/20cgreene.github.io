@@ -81,9 +81,9 @@ li.dropdown {
 }
 #topblackbar {
    position:fixed;
-   height:52px;
+   height:50px;
    width: 100%;
    top: 0;
    right: 0;
-    background-color: black;
+   background-color: black;
 }
