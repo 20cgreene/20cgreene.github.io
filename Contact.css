@@ -79,3 +79,11 @@ li.dropdown {
     display: block;
     overflow: hidden;
 }
+#topblackbar {
+   position:fixed;
+   height:54px;
+   width: 100%;
+   top: 0;
+   right: 0;
+    background-color: black;
+}
