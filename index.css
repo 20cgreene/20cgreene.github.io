@@ -50,9 +50,10 @@ ul {
     cursor: pointer;
     right:0;
     min-height: 50px;
+    text-align: center;
  }
 li {
-    float: center;
+    float: left;
     background-color:black;
  } 
 li a, .dropbtn{
