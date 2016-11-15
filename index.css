@@ -52,7 +52,7 @@ ul {
     min-height: 50px;
  }
 li {
-    float: left;
+    float: right;
     background-color:black;
  } 
 li a, .dropbtn{
@@ -96,4 +96,9 @@ li.dropdown {
    top: 0;
    right: 0;
     background-color: black;
+}
+#image {
+    float: left;
+    top:0
+    right: 0;
 }
