@@ -56,7 +56,7 @@ li {
     background-color:black;
  } 
 li a, .dropbtn{
-    display: inline-block; 
+    display: block; 
     color: white;
     text-align: center;
     padding: 14px 16px;
