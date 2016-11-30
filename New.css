@@ -26,15 +26,9 @@ p    {
 }
 ul {
     list-style-type: none;
-    margin-left: auto;
-    margin-right: auto;
     padding: 0;
-    overflow: hidden;
-    position: absolute;
-    width: 100%;
-    top: 10px;
-    cursor: pointer;
-    min-height: 50px;
+    margin: 0;
+    text-align: center;
  }
 li {
     float: left;
