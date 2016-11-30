@@ -29,6 +29,7 @@ ul {
     padding: 0;
     margin: 0;
     text-align: center;
+    min-height: 50px;
  }
 li {
     float: left;
