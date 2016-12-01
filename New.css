@@ -1,6 +1,6 @@
 html {
   height: 100%;
-  background-color: green;
+  background-color: grey;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -54,7 +54,7 @@ p    {
 #centeredmenu ul li a {
    display:block;
    margin:0 0 0 1px;
-   padding:3px 10px;
+   padding:10px 10px;
    background:#ddd;
    color:#000;
    text-decoration:none;
