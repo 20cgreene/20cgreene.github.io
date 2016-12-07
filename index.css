@@ -26,3 +26,6 @@ p    {
     column-rule-style: solid;
     column-span: all;
 }
+carousel slide    {
+    top: -20;
+}
