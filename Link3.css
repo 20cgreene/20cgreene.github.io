@@ -1,1 +1,28 @@
-
+html {
+}
+body {
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+    line-height: 1.5;
+    margin-bottom: auto;
+}
+html, body {
+    height: 100%;
+}
+h1{
+    color: black;
+    font-family: fantasy;
+    font-size: 4rem;
+    text-align: center;
+}
+h2{
+    color:black;
+    font-family: fantasy;
+    font-size: 2rem;
+}
+p    {
+    column-count: 2;
+    column-gap: normal;
+    column-rule-color: black;
+    column-rule-style: solid;
+    column-span: all;
+}
