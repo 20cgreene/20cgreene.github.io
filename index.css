@@ -27,5 +27,6 @@ p    {
     column-span: all;
 }
 .carousel{
+    position: relative;
     top: -20;
 }
