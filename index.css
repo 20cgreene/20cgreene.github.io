@@ -28,9 +28,9 @@ p    {
 }
 .Media {
     position: fixed;
-    bottom: 0;
+    bottom: 10px;
     right: 0;
-    width: 100px;
-    background-color: black;\
+    width: 200px;
+    background-color: grey;
     height: 20px;
 }
