@@ -26,3 +26,7 @@ p    {
     column-rule-style: solid;
     column-span: all;
 }
+.well a {
+    color: black;
+    font-size: 2rm;
+}
