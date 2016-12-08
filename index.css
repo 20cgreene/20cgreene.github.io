@@ -26,12 +26,3 @@ p    {
     column-rule-style: solid;
     column-span: all;
 }
-.well a {
-    font-size: 24px;
-    margin-top: 0 0 20px;
-    margin-bottom: 0 0 10px;
-    font-family: inherit;
-    font-weight: 500;
-    line-height: 1.1;
-    color: inherit;
-}
