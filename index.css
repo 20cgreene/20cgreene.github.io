@@ -34,7 +34,9 @@ p    {
     background-color: grey;
     height: 40px;
 }
-.Media i {
-    height: 10px;
-    width: 10px;
+.Media a {
+    height: 45px;
+    width: 45px;
+    padding-left: 0;
+    padding-right: 0;
 }
