@@ -26,3 +26,9 @@ p    {
     column-rule-style: solid;
     column-span: all;
 }
+.Media {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 100px;
+}
