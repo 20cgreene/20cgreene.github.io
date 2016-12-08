@@ -40,3 +40,8 @@ p    {
     padding-left: 0;
     padding-right: 0;
 }
+.Media a i {
+    line-height: 45px;
+    width: 45px;
+    font-size: 1.8em;
+}
