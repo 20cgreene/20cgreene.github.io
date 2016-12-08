@@ -26,22 +26,3 @@ p    {
     column-rule-style: solid;
     column-span: all;
 }
-.Media {
-    position: fixed;
-    bottom: 10px;
-    right: 0;
-    width: 200px;
-    background-color: grey;
-    height: 40px;
-}
-.Media a {
-    height: 45px;
-    width: 45px;
-    padding-left: 0;
-    padding-right: 0;
-}
-.Media a i {
-    line-height: 45px;
-    width: 45px;
-    font-size: 1.8em;
-}
