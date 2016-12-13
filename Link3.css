@@ -26,3 +26,7 @@ p    {
     column-rule-style: solid;
     column-span: all;
 }
+.navbar-nav {
+    float: right;
+    margin: 0;
+}
