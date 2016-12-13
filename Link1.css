@@ -30,3 +30,6 @@ p    {
     float: right;
     margin: 0;
 }
+img {
+    width: 100%;
+}
